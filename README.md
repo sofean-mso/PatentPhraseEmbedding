@@ -17,4 +17,4 @@ Examples of Word/Phrase Embedding:
 
 
 
-Mustafa Sofean, Ahmad Alrifai. Deep Learning Services for Patents. 1st Workshop on Patent Text Mining and Semantic Technologies. PatentSemTech 2019
+**_Mustafa Sofean_, Ahmad Alrifai. Deep Learning Services for Patents. 1st Workshop on Patent Text Mining and Semantic Technologies. PatentSemTech 2019 **
