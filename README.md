@@ -7,6 +7,6 @@ The model is trained on more than 13 millions patent sentences that are extracte
 
 The Embeddings model is availabel on Kaggle https://www.kaggle.com/darshmso/w2vec-patent-domain 
 
-Word/Phrase Embeddings: 
+Examples of Word/Phrase Embedding: 
 ![arch_0000](https://github.com/sofean-mso/PatentPhraseEmbedding/blob/master/phraseEmbbs.png)
 
