@@ -5,3 +5,6 @@ Therefore we applied sophisticated NLP tasks to extract the patent terms and phr
 
 The model is trained on more than one billion words and phrases, and more than 13 millions patent sentences that are extracted from 5,000,000 patent documents.
 
+Word/Phrase Embeddings: 
+![arch_0000](https://github.com/sofean-mso/PatentPhraseEmbedding/blob/master/phraseEmbbs.png)
+
