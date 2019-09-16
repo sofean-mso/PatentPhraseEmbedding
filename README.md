@@ -12,6 +12,7 @@ Examples of Word/Phrase Embedding:
 
 
 
+Another Examplaes:
 
 
 ![arch_0000](https://github.com/sofean-mso/PatentPhraseEmbedding/blob/master/phraseEmbb_auto_driving_und_quNTUM.png)
