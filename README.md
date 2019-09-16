@@ -10,3 +10,11 @@ The Embeddings model is availabel on Kaggle https://www.kaggle.com/darshmso/w2ve
 Examples of Word/Phrase Embedding: 
 ![arch_0000](https://github.com/sofean-mso/PatentPhraseEmbedding/blob/master/phraseEmbbs.png)
 
+
+
+
+
+
+
+
+Mustafa Sofean, Ahmad Alrifai. Deep Learning Services for Patents. 1st Workshop on Patent Text Mining and Semantic Technologies. PatentSemTech 2019
