@@ -8,7 +8,7 @@ The model is trained on more than 13 millions patent sentences that are extracte
 **Model Training**  
 
 We used the Word2vec implementation in Gensim (https:// radimrehurek.com/gensim/) with a few modifications. We found that skip-gram
-with negative sampling loss (n = 15) performed best.  We used 100-dimensional embeddings, a learning rate of 0.01 decreasing to 0.0001 in 30 epochs, window set to 10, and a minimum word/phrase count set to 5.
+with negative sampling loss (n = 15) performed best.  We used 100-dimensional embeddings, a learning rate is 0.01,  epochs = 30, window is set to 10, and a minimum word/phrase count is set to 5.
 
 
 The Embeddings model is availabel on Kaggle https://www.kaggle.com/darshmso/w2vec-patent-domain 
