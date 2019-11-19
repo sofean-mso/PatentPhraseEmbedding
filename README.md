@@ -13,7 +13,10 @@ with negative sampling loss (n = 15) performed best.  We used 100-dimensional em
 
 The Embeddings model is availabel on Kaggle https://www.kaggle.com/darshmso/w2vec-patent-domain 
 
-Examples of Word/Phrase Embedding: 
+[Examples](https://github.com/sofean-mso/PatentPhraseEmbedding/blob/master/PhraseEmbExs.ipynb)
+
+
+Visual Examples of Word/Phrase Embedding: 
 ![arch_0000](https://github.com/sofean-mso/PatentPhraseEmbedding/blob/master/phraseEmbbs.png)
 
 
